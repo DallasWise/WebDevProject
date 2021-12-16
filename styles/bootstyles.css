@@ -45,3 +45,6 @@ a:hover{
     background: black;
     padding: 10px;
 }
+body {
+    background-image: url("../images/img/White background.jpg");
+}
