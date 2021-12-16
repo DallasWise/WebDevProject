@@ -1,0 +1,67 @@
+body {
+    background-image: url("../images/img/White background.jpg");
+}
+footer{
+    background-color: whitesmoke;
+}
+header.masthead{
+    background-color: black;
+}
+a:link {
+    color: gray;
+    text-decoration: none;
+}
+a:visited{
+    color: gray;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+header.masthead .page-heading .subheading, header.masthead .site-heading .subheading {
+    font-size: 18px;
+    display: inline;
+}
+.btn-primary{
+    background-color: black;
+    border-color: black;
+
+}
+header.masthead .page-heading h1, header.masthead .page-heading .h1, header.masthead .site-heading h1, header.masthead .site-heading .h1 {
+    font-size: 64px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul{
+    list-style-type: square;
+    color: black;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ol{
+    color: black;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    font-size: 48px;
+}
+#PortraitImg{
+    width:45%;
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+}
+#Baseball{
+    width: 50%;
+    margin: auto;
+    margin-left: 0%;
+    margin-bottom: 10px;
+}
+#Gaming{
+    width: 45%;
+    margin: auto;
+    margin-left: 0%;
+}
+
+
